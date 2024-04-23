@@ -50,4 +50,4 @@ Alternatively, you can build using buildah:
 Access to FUSE and the SYS_ADMIN capability are needed for mounting disorderfs
 in order to sort the directory entries of the project folder.
 
-The unsigned APKs are written to the specified output directory.
+The unsigned APKs arehttps://github.com/bitcoin-wallet/bitcoin-wallet.git written to the specified output directory.
