@@ -1,4 +1,4 @@
-TXT CHECKPOINTS 1
+https://github.com/Hopefully-my/Memeyyyy/blob/srbaeza-ai-patch-1/wallet%2Fassets%2Felectrum-servers.txtTXT CHECKPOINTS 1
 0
 1199
 AAAAAAAAB+EH4QfhAAAH4AEAAAApmwX6UCEnJcYIKTa7HO3pFkqqNhAzJVBMdEuGAAAAAPSAvVCBUypCbBW/OqU0oIF7ISF84h2spOqHrFCWN9Zw6r6/T///AB0E5oOO
